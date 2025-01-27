@@ -1,10 +1,11 @@
-# Olá, eu sou Eduardo Kaimoto 👋 ![Pixel Art](https://media.tenor.com/j9QfVMu8Ec0AAAAi/dk-donkey-kong.gif)
+
+![Pixel Art](https://static.wikia.nocookie.net/pisstowel/images/4/40/Spr_joeidle.gif)# Olá, eu sou Eduardo Kaimoto 👋
 
 Bem-vindo ao meu perfil! Sou **Analista de Qualidade de Software Júnior**, apaixonado por testes e desenvolvimento. 🎯
 
 ---
 
-## Sobre mim ![Pixel Art](https://static.wikia.nocookie.net/pisstowel/images/4/40/Spr_joeidle.gif)
+## Sobre mim
 
 - 💻 Explorando o universo **DevOps** e o mundo de **Qualidade de Software**.
 - 🌟 Sempre buscando aprender e aplicar novas tecnologias para entregar valor e inovação.
@@ -27,8 +28,8 @@ Explore meus repositórios para conhecer mais sobre o que faço. Estou sempre di
 ---
 
 ## Estatísticas 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardokaimoto&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardokaimoto&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardokaimoto&show_icons=true&theme=tokyonight )
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardokaimoto&layout=compact&theme=tokyonight )
 
 
 
