@@ -36,7 +36,6 @@ Explore meus repositórios para conhecer mais sobre o que faço. Estou sempre di
 
 ![Pixel Art](https://media.tenor.com/B4fXHB4HdAoAAAAi/toyota-toyota-celica.gif)
 
-![Pixel Art]([https://media.tenor.com/B4fXHB4HdAoAAAAi/toyota-toyota-celica.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJlcmI4ZnQ3ZTM5cTk4M3lnYmZmazhjaWFwM2l3OGVzc3plMWEzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vsuf7QkQw5xKPZJhFP/giphy.gif
-))
+![Pixel Art](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJlcmI4ZnQ3ZTM5cTk4M3lnYmZmazhjaWFwM2l3OGVzc3plMWEzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vsuf7QkQw5xKPZJhFP/giphy.gif)
 
 
