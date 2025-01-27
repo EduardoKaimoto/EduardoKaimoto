@@ -1,5 +1,6 @@
 
-![Pixel Art](https://static.wikia.nocookie.net/pisstowel/images/4/40/Spr_joeidle.gif)# Olá, eu sou Eduardo Kaimoto 👋
+![Pixel Art](https://static.wikia.nocookie.net/pisstowel/images/4/40/Spr_joeidle.gif)
+# Olá, eu sou Eduardo Kaimoto 👋
 
 Bem-vindo ao meu perfil! Sou **Analista de Qualidade de Software Júnior**, apaixonado por testes e desenvolvimento. 🎯
 
